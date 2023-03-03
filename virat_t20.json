@@ -1,0 +1,43 @@
+{
+Virat Kholi:
+[
+  {
+    "Country": "Af",
+    "Average": 172
+  },
+  {
+    "Country": "Australia",
+    "Average": 52.9
+  },
+   {
+    "Country": "Bangladesh",
+    "Average": 96.50
+  },
+   {
+    "Country": "England",
+    "Average": 39.93
+  },
+   {
+    "Country": "Hong Kong",
+    "Average": 0
+  },
+   {
+    "Country": "Ireland",
+    "Average": 4.50
+  },
+  
+   {
+    "Country": "Netherland",
+    "Average": 0
+  },
+   {
+    "Country": "New Zealand",
+    "Average":34.56
+  },
+   {
+    "Country": "Pakistan",
+    "Average": 81.33
+  },
+  
+]
+}
